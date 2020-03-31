@@ -19,4 +19,4 @@ As noted in the code, it was unclear whether the users should be deleted, or the
 the table as well, reference line 54 in the code.
 
 Repo link:
-https://github.com/DanielLaursen/20200331
+https://github.com/DanielLaursen/20200331 
